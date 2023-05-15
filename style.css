@@ -51,7 +51,6 @@ body{
     .form-row{
         position: relative;
         display: block;
-        box-sizing: border-box;
         margin: 0 auto;
 
     }
